@@ -1,7 +1,6 @@
 #
-# Mqttagent that monitor growing system
-#
-#   more information about store : https://medium.com/@aroussi/fast-data-store-for-pandas-time-series-data-using-pystore-89d9caeef4e2
+# Mqttagent that record an image of the growing plants every 2 mins, 
+# the camera is a simple ESP32 CAM, with an http jpg end point
 #
 
 import paho.mqtt.client as mqtt
