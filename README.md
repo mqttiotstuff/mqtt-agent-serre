@@ -5,4 +5,14 @@ simple python script to :
 - record periodically images for image analysis
 
 
+All metrics here are stored in a folder, this permit to spawn a jupyter notebook for the analysis
+
+
+## requierments
+
+	PIL
+	paho-mqtt
+	numpy
+	pandas
+	pystore
 
